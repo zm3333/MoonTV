@@ -140,6 +140,11 @@
       "name": "治愈",
       "type": "movie",
       "query": "治愈"
+    },
+    {
+      "name": "情色",
+      "type": "movie",
+      "query": "情色"
     }
   ]  
 }
